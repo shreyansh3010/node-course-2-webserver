@@ -1,13 +1,13 @@
 {
   "name": "5",
   "version": "1.0.0",
-  "description": "",
+  "description": "first node app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "shreyansh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
