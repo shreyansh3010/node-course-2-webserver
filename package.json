@@ -12,5 +12,14 @@
   "dependencies": {
     "express": "^4.14.0",
     "hbs": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyansh3010/node-course-2-webserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shreyansh3010/node-course-2-webserver/issues"
+  },
+  "homepage": "https://github.com/shreyansh3010/node-course-2-webserver#readme"
 }
